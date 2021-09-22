@@ -86,8 +86,8 @@ export default function Home() {
                 quieres mantenerte aprendiendo junto conmigo?
               </h3>
               <div className="flex flex-row justify-evenly">
-                <input value={correo} onChange={(e)=>Setcorreo(e.target.value)}  class=" text-black focus:outline-none focus:ring-2 focus:ring-yellow-600 focus:border-transparent h-10 w-2/3 rounded-xl" />
-                <button class="w-2/4 h-10 font-bold text-sm bg-yellow-600 rounded-xl hover:bg-yellow-700 focus:outline-none focus:ring-2 focus:ring-yellow-600 focus:ring-opacity-50 ...">
+                <input value={correo} onChange={(e)=>Setcorreo(e.target.value)}  className=" text-black focus:outline-none focus:ring-2 focus:ring-yellow-600 focus:border-transparent h-10 w-2/3 rounded-xl" />
+                <button className="w-2/4 h-10 font-bold text-sm bg-yellow-600 rounded-xl hover:bg-yellow-700 focus:outline-none focus:ring-2 focus:ring-yellow-600 focus:ring-opacity-50 ...">
                   Suscribirse
                 </button>
               </div>

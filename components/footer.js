@@ -37,16 +37,16 @@ function footer() {
         id="links-icons"
       >
         <a href="#">
-          <Image src="/githu.png" width={50} height={50} layout="intrinsic" />
+          <Image src="/githu.png" width={50} height={50} layout="intrinsic" alt="paso"/>
         </a>
         <a href="#">
-          <Image src="/inst.png" width={65} height={50} layout="intrinsic" />
+          <Image src="/inst.png" width={65} height={50} layout="intrinsic" alt="paso"/>
         </a>
         <a href="https://coctsx.hashnode.dev/">
-          <Image src="/hash.png" width={50} height={50} layout="intrinsic" />
+          <Image src="/hash.png" width={50} height={50} layout="intrinsic" alt="paso"/>
         </a>
         <a href="#">
-          <Image src="/linke.png" width={50} height={50} layout="intrinsic" />
+          <Image src="/linke.png" width={50} height={50} layout="intrinsic" alt="paso"/>
         </a>
         <a href="https://www.digitalocean.com/?refcode=81af27fc86ed&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
           <img
